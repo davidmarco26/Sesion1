@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo06",
+  "command": "clang++ -c C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo06\\main.cpp -o C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo04",
+  "command": "clang++ -c C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo04\\main.cpp -o C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo03",
+  "command": "clang++ -c C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo03\\main.cpp -o C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo05",
+  "command": "clang++ -c C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo05\\main.cpp -o C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo02",
+  "command": "clang++ -c C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo02\\main.cpp -o C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo01",
+  "command": "clang++ -c C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo01\\main.cpp -o C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo07",
+  "command": "clang++ -c C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo07\\main.cpp -o C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo00\\main.cpp",
+  "directory": "C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo00",
+  "command": "clang++ -c C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo00\\main.cpp -o C:\\Users\\david\\OneDrive\\Documentos\\Sesion1EsDatos\\Sesion1\\Sesion1\\ejemplo00\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
